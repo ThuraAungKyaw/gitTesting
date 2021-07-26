@@ -1,0 +1,6 @@
+.DS_Store
+secrets.txt
+
+# Pod files
+
+# *.txt all of the files with the txt extension will be ignored
